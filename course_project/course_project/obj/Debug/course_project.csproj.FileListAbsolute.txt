@@ -1,0 +1,16 @@
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project.csproj.AssemblyReference.cache
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\App.g.cs
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project_MarkupCompile.cache
+C:\Users\Денис\source\repos\course_project\course_project\bin\Debug\course_project.exe.config
+C:\Users\Денис\source\repos\course_project\course_project\bin\Debug\course_project.exe
+C:\Users\Денис\source\repos\course_project\course_project\bin\Debug\course_project.pdb
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\MainWindow.baml
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\MainWindow.g.cs
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project.g.resources
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project.Properties.Resources.resources
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project.exe
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\course_project.pdb
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\TextWindow.baml
+C:\Users\Денис\source\repos\course_project\course_project\obj\Debug\TextWindow.g.cs
